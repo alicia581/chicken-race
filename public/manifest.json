@@ -1,0 +1,18 @@
+{
+  "name": "Balap Ayam — Pixel Racing Game",
+  "short_name": "Balap Ayam",
+  "description": "Game balap ayam pixel art seru!",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#0a0a0a",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
